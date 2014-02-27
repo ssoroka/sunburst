@@ -1,7 +1,7 @@
 {
   "name": "sunburst",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A Port of the Sunburst theme to Atom",
   "repository": "https://github.com/atom/sunburst",
